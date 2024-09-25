@@ -1,0 +1,20 @@
+.food-selection-container {
+    padding: 20px;
+  }
+  
+  .category-selector {
+    margin-bottom: 20px;
+  }
+  
+  .food-item {
+    margin-bottom: 15px;
+  }
+  
+  .food-option {
+    margin-left: 20px;
+  }
+  
+  button {
+    margin-top: 20px;
+  }
+  
